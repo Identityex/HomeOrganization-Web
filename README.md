@@ -5,11 +5,7 @@ A tool to help organize your home.
 
 Description of upcoming features (In bad personal tech jargon):
 
-
-Website, Take Photo of Item and, Add Name, Save
-
 <h1>[MVP]</h1>
-
 
 * Add Item Page (Give Name and Take Picture, maybe categorize "Bedroom, Office, Electronics, Cooking, etc.")
 * Sort Item page (Tinder swipe left or right, flag duplicate): Dropdown from Header, to show Questions ("Kon-mari", "Fung-shui", "etc")
